@@ -1,4 +1,5 @@
-require "mangie/version"
+require 'mangie/cli'
+require 'mangie/version'
 
 module Mangie
   class Error < StandardError; end
